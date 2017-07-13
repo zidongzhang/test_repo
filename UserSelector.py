@@ -3,9 +3,9 @@
 """
 Funcion: Select a random user from the user pool while attching him/her with a given comment.
 
-Usage: 
+Usage: python ./UserSelector.py
 
-Author: 
+Author: zidongzhang
 
 Update: 2016-07-12 20:28:32
 
